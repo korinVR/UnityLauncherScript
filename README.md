@@ -14,3 +14,7 @@ chmod +x /usr/local/bin/unity
 Copy `unity.bat` to a directory in your PATH (or add a custom directory to your PATH environment variable).
 
 Once installed, simply run `unity` from any Unity project root directory to launch the editor.
+
+## License
+
+Public domain (CC0). No rights reserved.
